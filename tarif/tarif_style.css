@@ -1,0 +1,55 @@
+
+
+
+
+
+#metabox_tarif_buffets .inside{
+    background-color: #F5F5F5;
+    padding: 1.5rem 0;
+    margin: 0;
+}
+
+#metabox_tarif_buffets .cadre{
+    border: 1px solid #bdbcbc;
+    background-color: #fff;
+    width: 95%auto;
+}
+
+#metabox_tarif_buffets .cadre:first-child{
+    margin-left: 10px;
+}
+#metabox_tarif_buffets .cadre:last-child{
+    margin-right: 10px;
+}
+
+#metabox_tarif_buffets h1{
+    border-bottom: 1px solid #bdbcbc;
+    background-color: #bdbcbc;
+    padding: 1rem;
+    margin-bottom: 15px;
+    line-height: 1;
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+}
+
+#metabox_tarif_buffets .cadre-body{
+    padding: .8rem;
+    text-align: justify;
+}
+
+#metabox_tarif_buffets .cadre-prix{
+    margin-bottom: 20px;
+}
+
+#metabox_tarif_buffets label{
+    padding-right: 15px;
+}
+#metabox_tarif_buffets input[type='text']{
+    line-height: 2;
+    width: 80%;
+}
+#metabox_tarif_buffets textarea{
+    width: 100%;
+    height: 15vh;
+}
