@@ -1,0 +1,48 @@
+
+
+
+
+
+
+
+#metabox_special .inside{
+    background-color: #F5F5F5;
+    padding: 1.5rem 0;
+    margin: 0;
+}
+
+#metabox_special .cadre{
+    border: 1px solid #bdbcbc;
+    background-color: #fff;
+    width: 95%auto;
+}
+
+#metabox_special .cadre:first-child{
+    margin-left: 10px;
+}
+#metabox_special .cadre:last-child{
+    margin-right: 10px;
+}
+
+
+
+#metabox_special .cadre-body{
+    padding: .8rem;
+    text-align: justify;
+}
+
+#metabox_special .cadre-prix{
+    margin-bottom: 20px;
+}
+
+#metabox_special label{
+    padding-right: 15px;
+}
+#metabox_special input[type='text']{
+    line-height: 2;
+    width: 80%;
+}
+#metabox_special textarea{
+    width: 100%;
+    height: 15vh;
+}
