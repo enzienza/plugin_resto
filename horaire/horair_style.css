@@ -1,0 +1,34 @@
+/*
+Plugin Name: Horairs
+Description: Metabox pour les heures d'ouverture et fermeture du resto
+Author: Enza Lombardo
+Version: 1.0
+*/
+
+#metabox_horaires label{
+    padding: 0 .7rem;
+}
+
+#metabox_horaires table{
+    width: 57%;
+    background: #fff;
+}
+
+#metabox_horaires tr{
+    text-align: center;
+}
+
+#metabox_horaires .inside{
+    background-color: #F5F5F5;
+    padding: 1.5rem 2rem;
+    margin: 0;
+}
+
+#metabox_horaires input{
+    line-height: 2;
+}
+
+#metabox_horaires .day{
+    vertical-align: middle;
+    text-align: left;
+}
