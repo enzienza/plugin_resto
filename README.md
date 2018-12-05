@@ -4,7 +4,7 @@ Plugin créer pour le template 'theme_resto'
 
 ### plugin_horaire
 
-Plugin pour géger les heures d'ouverture du restaurant pour le service du midi et le service du soir
+Plugin pour gérer les heures d'ouverture du restaurant pour le service du midi et le service du soir
 
 ### plugin_tarif
 
